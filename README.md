@@ -1,6 +1,6 @@
 Realtek driver for Linux/Android. Files come from Realtek FTP Server.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://raw.githubusercontent.com/alanfox2000/realtek-hda-release/master/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](hhttps://raw.githubusercontent.com/alanfox2000/realtek-linux/master/LICENSE)
 
 ---------------------------------------
 
